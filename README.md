@@ -59,7 +59,7 @@ Bımerk echtır dat ik bıhŏdsgızind ben gıweest door het ondırschëd tı la
 Enigı bızorgdhëd dat het gıbrük van dı umlăt voor vırwarring zal zorgın met het klassiekı gıbrük van het trema zal latır wordın weggınomın. 
 
 
-## Hıt afserverın van lettırvırdubbılingın
+## Het afserverın van lettırvırdubbılingın
 
 Hıt kind schreef *apol* en bıdöldı natuurlık *appıl*.
 Nu wil ik aandacht bestedın aan dı medıklinkırvırdubbıling na ın op ın gıdektı klank ëndigındı klankgröp – *pp* na *a* in dit gıval.
@@ -127,7 +127,7 @@ Omdat het bıhŏd van hıt stātus kwō ū, hīr āngıkōmın, sāj zŏ ōvırk
 
 ## Nābısxŏwiqın
 
-Of dı bōvınstāndı vōrstelın zŏdın kunın lëdın tot ın objektīvf makılïkır speliq is mār dı vrāgx.
+Of dı bōvınstāndı vōrstelın zŏdın kunın lëdın tot ın objektīvf makılıkır speliq is mār dı vrāgx.
 Wat dēzı öfıniq hōpılïk wel düdılïk hēft gımākt, is dat gısxrēvın Nēdırlandts ır hēl andırs üt hadt kunın zīn.
 
 Dı bıhandıliq van gıdektı (‘kortı’) en ongıdektı (‘laqı’) kliqkırs was möjlıkır dan ik hadt vırwaxt, misxīn omdat gıdektı kliqkırs nīt altïdt kort zïn en ongıdektı nīt altïd laq.
