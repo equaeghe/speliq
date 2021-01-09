@@ -128,7 +128,7 @@ Omdat het bıhŏd van hıt stātus kwō ū, hīr āngıkōmın, sāj zŏ ōvırk
 ## Nābısxŏwiqın
 
 Of dı bōvınstāndı vōrstelın zŏdın kunın lëdın tot ın objektīvf makılıkır speliq is mār dı vrāgx.
-Wat dēzı öfıniq hōpılïk wel düdılïk hēft gımākt, is dat gısxrēvın Nēdırlandts ır hēl andırs üt hadt kunın zīn.
+Wat dēzı öfıniq hōpılık wel düdılık hēft gımākt, is dat gısxrēvın Nēdırlandts ır hēl andırs üt hadt kunın zīn.
 
 Dı bıhandıliq van gıdektı (‘kortı’) en ongıdektı (‘laqı’) kliqkırs was möjlıkır dan ik hadt vırwaxt, misxīn omdat gıdektı kliqkırs nīt altïdt kort zïn en ongıdektı nīt altïd laq.
 Ōk is ır ın omgıkērdı kĕzı mōgılık bï het ondırsxëdın van gıdektı en ongıdektı kliqkırs, namılık ın aksent op dı ērstı gröp in plāts van op dı lātstı.
