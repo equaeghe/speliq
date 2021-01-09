@@ -117,7 +117,7 @@ Bï zulkı aflëdiqın kunın ütsprākvırandıriqın vōrkōmın.
 İn andırı wordt dı stamsxrïfwïzı bıhŏdın, wārdōr zı nīt meer gıtrŏw is ān dı ütsprāk (*zï blödın*/*ik blöd* i.p.v. *ik blöt*, *zï ligın*/*ik lig* i.p.v. *ik lix*, *zï tobın*/*ik tob* i.p.v. *ik top*).
 
 Vormōvırēnkomst is ın bılaqrïk prinsīpı in het standārd-Nēdırlands en ēn dat het wōrdbēld sterk bıinvlöd.
-Dōr dı nīt-ōvırēnkomst van ütsprāk en sxrïfwïzı, mākt het dı speliq möjlïkır.
+Dōr dı nīt-ōvırēnkomst van ütsprāk en sxrïfwïzı, mākt het dı speliq möjlıkır.
 Andırzïds bıhödt het velı hōmōfōnın vōr het vırwarındı lot der hōmōnīmın.
 Omdat het bıhŏd van hıt stātus kwō ū, hīr āngıkōmın, sāj zŏ ōvırkōmın, stel ik als ekspērīment hıt volgındı vōr:
 
