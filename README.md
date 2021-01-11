@@ -92,7 +92,7 @@ Wı kunın zı dus rēsīklērın vōr andırı klankın:
 
 * *c* vōr dı kombinatīs *sj*, *sh* en *ch* (*cāl*, *campō* en *cōkōlādı*, mār *mesjı*);
 * *q* vōr dı inhēmsı kombinatī *ng* (*op ın laqe baqk pasın vēl kindırın*), wat mı tot nog tö dı vīsūēl mēst stōrındı vırandıriq van al mïn vōrstelın lïkt;
-* *x* vōr dı inhēmsı kombinatī *ch* (*glimlax*, *sxōl*), als ın knipōg nār het Grīksı alfabet;
+* *x* vōr dı inhēmsı kombinatī *ch* (*glimlax*, *sxōl*), als ın knipōg nār het Grīksı alfābet;
 * *y* vōr somıgı üthēmsı *j* en *g* (*yournāl*, *yīhād*, *barāyı*).
 
 
@@ -102,7 +102,7 @@ Dōr de bōvınstāndı mēdıklinkırrēsīklāyı kunın vēl lēnwōrdın nī
 Ōk dı herlēsbārhëd van enkılı gröpın inhēmsı wōrdın (bıvōrbēld dēzı ëndıgınd op *īsch*) wordt hīrdōr en dōr dı ērdırı klinkırvırnīuwiq (bıvōrbēld dēzı met onexte twēklankın) problēmātīsch. 
 Om ın inkōhērent heksınsöpjı ān sxrïfwïzın zōals wı dat nū kenın tı vırmïdın, is ın konsēkwentırı töpasiq van dı letır-klaqkōvırēnkomst nōdıg:
 
-* lēnwōrdın wordın in dı rēgıl fōnētīsch gısxrēvın (*yörnāl*, *pōlīsī*, *ıqkëtı*, *aksī*, *aktīf*, *aktīva*), wārbï konsistentī möt wordın nāgıstrēfd in gıval van ambīgūītët (desondaqks zŏ het opstelın van het lēnwōrdındēl van dı wōrdınlïst nog vēl werk zïn);
+* lēnwōrdın wordın in dı rēgıl fōnētīsch gısxrēvın (*yörnāl*, *pōlīsī*, *aqketı*, *aksī*, *aktīf*, *aktīva*), wārbï konsistensī möt wordın nāgıstrēfd in gıval van ambīgūītët (desondaqks zŏ het opstelın van het lēnwōrdındēl van dı wōrdınlïst nog vēl werk zïn, zō is *pōlītsī* ōk ın bıstāndı ütsprāk);
 * wōrdın dī ëndıgdın op *īsch*, ëndıgdın nū op *īs* (*lōgīs*);
 * onextı twēklankın gıbrükın nū ın *j* in plāts van ın *i* of lātın dı *u* valın (*drājırıgı köjın löjın mōj*, *dı nīwı snēw bıdektı dı ŏdı*);
 * de kombinatī *th* wordt *t* (*altans*, *tüs*, *tēmā*);
@@ -136,6 +136,7 @@ Nātūrlık is ır ōk vrïhëdt in dı kĕzı van het aksent.
 
 Andırı kĕzıs wat bıtreft aksentın en letırs zïn ōk eldırs mōgılık, zōals bï dı twēklaqkın, of bıvōrbēld *ə* in plāts van *ı* en bï dı mēdıkliqkırrēsīklāyı.
 (Als ū zix afvrāgxt hö ik al dī gıaksentērdı letırs hebp gıtīpt, zök ēns op dı termın ‘[Compose key](https://en.wikipedia.org/wiki/Compose_key)’ en ‘[AltGr key](https://en.wikipedia.org/wiki/AltGr_key)’.)
+Ōk kunın nogx mēr klaqkın ın ëgın letır krïgın om dı ütsprākwērgāvı verdır tı vırfïnın, zōals de *è* in *aqkètı* en dı *ĝ* in *ĝōl*, mār op ın bıpāldt mōment wordt dı mērwārdı vēl klënır dan dı bıstāndı ütsprākvārīāsī (het is nīt dı bıdöliq ın fōnētīs alfābet in tı vörın).
 
 Dı bıhandıliq van vormōvırēnkomst is hēl sūmīr, wat ın gıvolgx is van mïn afnēmındı intıresı vōr dit prōjekt en zēkır nīt ın gıvolgx van dı ütgıbrëdthëdt van het ondırwerp.
 Verdır zïn ır nogx (*nogal*!) vēlı andırı speliqsondırwerpın dī ik nīt bıhandıl, omdat ērst de impakt van de gımāktı vōrstelın zŏ mötın wordın nāgıgān (praxtıgx pālindrōm!), wat ın werkjı is vōr īmant met ın ōvırsxot ān tïdt.
