@@ -93,7 +93,7 @@ Wı kunın zı dus rēsīklērın vōr andırı klankın:
 * *c* vōr dı kombinatīs *sj*, *sh* en *ch* (*cāl*, *campō* en *cōkōlādı*, mār *mesjı*);
 * *q* vōr dı inhēmsı kombinatī *ng* (*op ın laqe baqk pasın vēl kindırın*), wat mı tot nog tö dı vīsūēl mēst stōrındı vırandıriq van al mïn vōrstelın lïkt;
 * *x* vōr dı inhēmsı kombinatī *ch* (*glimlax*, *sxōl*), als ın knipōg nār het Grīksı alfābet;
-* *y* vōr somıgı üthēmsı *j* en *g* (*yournāl*, *yīhād*, *barāyı*).
+* *y* vōr somıgı üthēmsı *j* en *g* dī ongıvēr kliqkın als ‘zj’ (*yournāl*, *yīhād*, *barāyı*).
 
 
 ## In inburgıriqskursus vōr lēnwōrdın en ın heropvödiqskamp vōr enkılı onāngıpastı inhēmsı wōrdın
