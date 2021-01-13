@@ -47,98 +47,96 @@ Hier wil ik eerst aandacht besteden aan de doffe klank (hier *e*), die niet echt
 De doffe klank wordt in standaard-Nederlands meestal geschreven als *e* (*appel*), maar *i* en *ij* komen ook voor (*vredig*, *kwalijk*).
 (Sommigen zullen ook de *o* in *avond* dof vinden. Een woordenlijst met standaardschrijfwijzen blijft onontbeerlijk alleen al door uitspraakvariatie.)
 Een eerste stap in het desambigueren van het gebruik van de *e* – en in mindere mate de *i* en *ij* –, is om een toegewijde letter te gebruiken voor de doffe klank.
-Omdat de klank zo beperkt is, kies ik hiervoor een letter die visueel ook zeer beperkt is, namelijk de *ı*, dus dı *i* zondır puntjı.
-Dit is ın lettır die ook gıbruikt wordt in het (ıt? hıt?) Turksı schrift.
-Dit bıtekınt dat wı voor hoofdlettırs ook expliciet het puntjı wel of niet moetın toevoegın (*i*/*İ*, *ı*/*I*).
+Daarvoor neem ik gewoon de *ə* (‘sjwa’) uit hət fonetisch alfabet.
 
-Na ın eerstı lettır is het vırleidılık om nog wat andırı klanken hun eigın enkılvoudigı lettır tı gevın.
-Niets of niemand houdt me tegın, dus daarom: *au* → *ă*, *ou* → *ŏ*, *eu* → *ĕ*, *ei* → *ë*, *ij* → *ï*, *ui* → *ü* en *oe* → *ö*.
-(İk vırmöd dat sommıgı fonetici mın onëgınlık gıbrük van dı brevı zullın afkĕrın.)
-Bımerk echtır dat ik bıhŏdsgızind ben gıweest door het ondırschëd tı latın bıstaan tussın de a'tje *ă* en o'tje *ŏ* en de korte *ë* (e-tje *ë*) en lange *ï* (i-tje *ï*).
-(Respect voor dialectsprekırs wil ik wel bıtrachtın!)
-Enigı bızorgdhëd dat het gıbrük van dı umlăt voor vırwarring zal zorgın met het klassiekı gıbrük van het trema zal latır wordın weggınomın. 
+Na ən eerstə lettər is het vərleidələk om nog wat andərə klanken hun eigən enkəlvoudigə lettər tə gevən.
+Niets of niemand houdt me tegən, dus daarom: *au* → *ă*, *ou* → *ŏ*, *eu* → *ĕ*, *ei* → *ë*, *ij* → *ï*, *ui* → *ü* en *oe* → *ö*.
+(Ik vərmöd dat somməgə fonetici mən onëgənlək gəbrük van də brevə zullən afkĕrən.)
+Bəmerk echtər dat ik bəhŏdsgəzind ben gəweest door het ondərschëd tə latən bəstaan tussən de a'tje *ă* en o'tje *ŏ* en de korte *ë* (e-tje *ë*) en lange *ï* (i-tje *ï*).
+(Respect voor dialectsprekərs wil ik wel bətrachtən!)
+Enigə bəzorgdhëd dat het gəbrük van də umlăt voor vərwarring zal zorgən met het klassiekə gəbrük van het trema zal latər wordən weggənomən. 
 
 
-## Het afserverın van lettırvırdubbılingın
+## Het afserverən van lettərvərdubbəlingən
 
-Hıt kind schreef *apol* en bıdöldı natuurlık *appıl*.
-Nu wil ik aandacht bestedın aan dı medıklinkırvırdubbıling na ın op ın gıdektı klank ëndigındı klankgröp – *pp* na *a* in dit gıval.
-Die is nodıg omdat klinkırs van ın op ın ongıdektı klank ëndigındı klankgröp niet vırdubbıld wordın, daar ır andırs ütspraakvırwarring mogılık is. 
+Hət kind schreef *apol* en bədöldə natuurlək *appəl*.
+Nu wil ik aandacht bestedən aan də medəklinkərvərdubbəling na ən op ən gədektə klank ëndigəndə klankgröp – *pp* na *a* in dit gəval.
+Die is nodəg omdat klinkərs van ən op ən ongədektə klank ëndigəndə klankgröp niet vərdubbəld wordən, daar ər andərs ütspraakvərwarring mogələk is. 
 
-Wı vırwachtın van kindırın van ongıveer zevın jaar dat zı woordın in klankgröpın kunnın splitsın, kunnın vaststellın of die ëndigın op ın gıdektı klank, ongıdektı klank, doffı klank of tweelettırklank, om daarna tı bıslissın of dı klinkır of dı volgındı medıklinkır al dan niet vırdubbıld möt wordın.
-Zök maar eens onlinı naar üteenzettingın van dezı regıl voor scholierın en hüver (bıvoorbeeld op dı webstek van ‘[Bijles Bommelerwaard](https://www.bijles-bommelerwaard.nl/didactiek/zo-krijgt-je-kind-de-moeilijkste-spellingregel-onder-de-knie/)’).
-Ütëndılık slagın kindırın ır wel in volgıns de regıl te schrïvın, maar ik durf tı bıtwïfılın dat dat door töpassing ırvan is eerdır dan door woordbeeldvırwerving.
+Wə vərwachtən van kindərən van ongəveer zevən jaar dat zə woordən in klankgröpən kunnən splitsən, kunnən vaststellən of die ëndigən op ən gədektə klank, ongədektə klank, doffə klank of tweelettərklank, om daarna tə bəslissən of də klinkər of də volgəndə medəklinkər al dan niet vərdubbəld möt wordən.
+Zök maar eens onlinə naar üteenzettingən van dezə regəl voor scholierən en hüver (bəvoorbeeld op də webstek van ‘[Bijles Bommelerwaard](https://www.bijles-bommelerwaard.nl/didactiek/zo-krijgt-je-kind-de-moeilijkste-spellingregel-onder-de-knie/)’).
+Ütëndələk slagən kindərən ər wel in volgəns de regəl te schrïvən, maar ik durf tə bətwïfələn dat dat door töpassing ərvan is eerdər dan door woordbeeldvərwerving.
 
-Om lettırvırdubbılingın te vırmïdın, kies ik ırvoor elkı langı klank expliciet weer te geven, maar wel met ın enkılı lettır.
-Dit dön we door het aanbrengın van ın macron: *aa* → *ā*, *ee* → *ē*, *ie* → *ī*, *oo* → *ō*, *uu* → *ū*.
-Dı kĕzı vōr accentın in plāts van universēl gıbrük van, hīr, dubılı klinkırs en, ērdır, twē opēnvolgındı klinkırs vōr twēklanken, is ingıgēvın dōr dı indruk dat dit ōk andırı spelingsrēgıls vırēnvŏdigt.
-Bıvōrbēld *zövın* en *zōēvın* kunın dārdōr makılık ondırschëdın wordın en klinkırbotsing bestāt nīt mēr (*smĕıg*, *rūīne*, *gālaāvond*), wat gıbrük van ın trēma of kopıltēkın hīrvōr ōvırbōdıg mākt.
+Om lettərvərdubbəlingən te vərmïdən, kies ik ərvoor elkə langə klank expliciet weer te geven, maar wel met ən enkələ lettər.
+Dit dön we door het aanbrengən van ən macron: *aa* → *ā*, *ee* → *ē*, *ie* → *ī*, *oo* → *ō*, *uu* → *ū*.
+Də kĕzə vōr accentən in plāts van universēl gəbrük van, hīr, dubələ klinkərs en, ērdər, twē opēnvolgəndə klinkərs vōr twēklanken, is ingəgēvən dōr də indruk dat dit ōk andərə spelingsrēgəls vərēnvŏdigt.
+Bəvōrbēld *zövən* en *zōēvən* kunən dārdōr makələk ondərschëdən wordən en klinkərbotsing bestāt nīt mēr (*smĕəg*, *rūīne*, *gālaāvond*), wat gəbrük van ən trēma of kopəltēkən hīrvōr ōvərbōdəg mākt.
 
 
-## In lentıschōnmākstölındans ondır dı mēdıklinkırs
+## Ǝn lentəschōnmākstöləndans ondər də mēdəklinkərs
 
-Tot nog tö heb ik gēn vōrstelın gıdān dī dı speling fōnētischır zŏ mākın.
-Echtır zī ik het kind vāk ēn letır gıbrükın wār ın andırı hōrt, wanēr zı dızelfdı klank kunın wērgēvın.
-Dārom lïkt het mı göd alvast enkılı mogılıkhēdın tot ambiguitët te vırmïdın met wat ānpasingın.
+Tot nog tö heb ik gēn vōrstelən gədān dī də speling fōnētischər zŏ mākən.
+Echtər zī ik het kind vāk ēn letər gəbrükən wār ən andərə hōrt, wanēr zə dəzelfdə klank kunən wērgēvən.
+Dārom lïkt het mə göd alvast enkələ mogələkhēdən tot ambiguitët te vərmïdən met wat ānpasingən.
 
-Dı volgındı letırs zïn ōvırbōdıg omdat zı vırvangın kunın wordın dōr andırı letırs:
+Də volgəndə letərs zïn ōvərbōdəg omdat zə vərvangən kunən wordən dōr andərə letərs:
 
 * *c* dōr *k* of *s*;
 * *q* dōr *k* (*qu* dōr *kw*);
 * *x* dōr *ks*;
 * *y* dōr *j*, *i* of *ī* (of kombinatīs hīrmē).
 
-Wı kunın zı dus rēsīklērın vōr andırı klankın:
+Wə kunən zə dus rēsīklērən vōr andərə klankən:
 
-* *c* vōr dı kombinatīs *sj*, *sh* en *ch* (*cāl*, *campō* en *cōkōlādı*, mār *mesjı*);
-* *q* vōr dı inhēmsı kombinatī *ng* (*op ın laqe baqk pasın vēl kindırın*), wat mı tot nog tö dı vīsūēl mēst stōrındı vırandıriq van al mïn vōrstelın lïkt;
-* *x* vōr dı inhēmsı kombinatī *ch* (*glimlax*, *sxōl*), als ın knipōg nār het Grīksı alfābet;
-* *y* vōr somıgı üthēmsı *j* en *g* dī ongıvēr kliqkın als ‘zj’ (*yournāl*, *yīhād*, *barāyı*).
+* *c* vōr də kombinatīs *sj*, *sh* en *ch* (*cāl*, *campō* en *cōkōlādə*, mār *mesjə*);
+* *q* vōr də inhēmsə kombinatī *ng* (*op ən laqe baqk pasən vēl kindərən*), wat mə tot nog tö də vīsūēl mēst stōrəndə vərandəriq van al mïn vōrstelən lïkt;
+* *x* vōr də inhēmsə kombinatī *ch* (*glimlax*, *sxōl*), als ən knipōg nār het Grīksə alfābet;
+* *y* vōr soməgə üthēmsə *j* en *g* dī ongəvēr kliqkən als ‘zj’ (*yournāl*, *yīhād*, *barāyə*).
 
 
-## In inburgıriqskursus vōr lēnwōrdın en ın heropvödiqskamp vōr enkılı onāngıpastı inhēmsı wōrdın
+## Ǝn inburgəriqskursus vōr lēnwōrdən en ən heropvödiqskamp vōr enkələ onāngəpastə inhēmsə wōrdən
 
-Dōr de bōvınstāndı mēdıklinkırrēsīklāyı kunın vēl lēnwōrdın nīt mēr zō ētīmōlōgīsch wordın gısxrēvın als vōrhēn.
-Ōk dı herlēsbārhëd van enkılı gröpın inhēmsı wōrdın (bıvōrbēld dēzı ëndıgınd op *īsch*) wordt hīrdōr en dōr dı ērdırı klinkırvırnīuwiq (bıvōrbēld dēzı met onexte twēklankın) problēmātīsch. 
-Om ın inkōhērent heksınsöpjı ān sxrïfwïzın zōals wı dat nū kenın tı vırmïdın, is ın konsēkwentırı töpasiq van dı letır-klaqkōvırēnkomst nōdıg:
+Dōr de bōvənstāndə mēdəklinkərrēsīklāyə kunən vēl lēnwōrdən nīt mēr zō ētīmōlōgīsch wordən gəsxrēvən als vōrhēn.
+Ōk də herlēsbārhëd van enkələ gröpən inhēmsə wōrdən (bəvōrbēld dēzə ëndəgənd op *īsch*) wordt hīrdōr en dōr də ērdərə klinkərvərnīuwiq (bəvōrbēld dēzə met onexte twēklankən) problēmātīsch. 
+Om ən inkōhērent heksənsöpjə ān sxrïfwïzən zōals wə dat nū kenən tə vərmïdən, is ən konsēkwentərə töpasiq van də letər-klaqkōvərēnkomst nōdəg:
 
-* lēnwōrdın wordın in dı rēgıl fōnētīsch gısxrēvın (*yörnāl*, *pōlīsī*, *aqketı*, *aksī*, *aktīf*, *aktīva*), wārbï konsistensī möt wordın nāgıstrēfd in gıval van ambīgūītët (desondaqks zŏ het opstelın van het lēnwōrdındēl van dı wōrdınlïst nog vēl werk zïn, zō is *pōlītsī* ōk ın bıstāndı ütsprāk);
-* wōrdın dī ëndıgdın op *īsch*, ëndıgdın nū op *īs* (*lōgīs*);
-* onextı twēklankın gıbrükın nū ın *j* in plāts van ın *i* of lātın dı *u* valın (*drājırıgı köjın löjın mōj*, *dı nīwı snēw bıdektı dı ŏdı*);
+* lēnwōrdən wordən in də rēgəl fōnētīsch gəsxrēvən (*yörnāl*, *pōlīsī*, *aqketə*, *aksī*, *aktīf*, *aktīva*), wārbï konsistensī möt wordən nāgəstrēfd in gəval van ambīgūītët (desondaqks zŏ het opstelən van het lēnwōrdəndēl van də wōrdənlïst nog vēl werk zïn, zō is *pōlītsī* ōk ən bəstāndə ütsprāk);
+* wōrdən dī ëndəgdən op *īsch*, ëndəgdən nū op *īs* (*lōgīs*);
+* onextə twēklankən gəbrükən nū ən *j* in plāts van ən *i* of lātən də *u* valən (*drājərəgə köjən löjən mōj*, *də nīwə snēw bədektə də ŏdə*);
 * de kombinatī *th* wordt *t* (*altans*, *tüs*, *tēmā*);
-* enkılı wōrdın met ın ōvırbōdıgı letır vırlīzın dī (*ert*, *amt*), mār dat zïn dētajs vōr dı wōrdınlïst.
+* enkələ wōrdən met ən ōvərbōdəgə letər vərlīzən dī (*ert*, *amt*), mār dat zïn dētajs vōr də wōrdənlïst.
 
 
-## Wëfıliqın dōr twïfıl ōvır vormōvırēnkomst 
+## Wëfəliqən dōr twïfəl ōvər vormōvərēnkomst 
 
-Vēl wōrdın kunın gızīn wordın als aflëdiqın van ın bıpāldı stam.
-Bï zulkı aflëdiqın kunın ütsprākvırandıriqın vōrkōmın.
-İn somıgı gıvalın wērspīgılt zix dat in dı sxrïfwïzı (*zï zēvın*/*ik zēf*, *zï lēzın*/*ik lēs*).
-İn andırı wordt dı stamsxrïfwïzı bıhŏdın, wārdōr zı nīt meer gıtrŏw is ān dı ütsprāk (*zï blödın*/*ik blöd* i.p.v. *ik blöt*, *zï ligın*/*ik lig* i.p.v. *ik lix*, *zï tobın*/*ik tob* i.p.v. *ik top*).
+Vēl wōrdən kunən gəzīn wordən als aflëdiqən van ən bəpāldə stam.
+Bï zulkə aflëdiqən kunən ütsprākvərandəriqən vōrkōmən.
+In soməgə gəvalən wērspīgəlt zix dat in də sxrïfwïzə (*zï zēvən*/*ik zēf*, *zï lēzən*/*ik lēs*).
+In andərə wordt də stamsxrïfwïzə bəhŏdən, wārdōr zə nīt meer gətrŏw is ān də ütsprāk (*zï blödən*/*ik blöd* i.p.v. *ik blöt*, *zï ligən*/*ik lig* i.p.v. *ik lix*, *zï tobən*/*ik tob* i.p.v. *ik top*).
 
-Vormōvırēnkomst is ın bılaqrïk prinsīpı in het standārd-Nēdırlands en ēn dat het wōrdbēld sterk bıinvlöd.
-Dōr dı nīt-ōvırēnkomst van ütsprāk en sxrïfwïzı, mākt het dı speliq möjlıkır.
-Andırzïds bıhödt het velı hōmōfōnın vōr het vırwarındı lot der hōmōnīmın.
-Omdat het bıhŏd van hıt stātus kwō ū, hīr āngıkōmın, sāj zŏ ōvırkōmın, stel ik als ekspērīment hıt volgındı vōr:
+Vormōvərēnkomst is ən bəlaqrïk prinsīpə in het standārd-Nēdərlands en ēn dat het wōrdbēld sterk bəinvlöd.
+Dōr də nīt-ōvərēnkomst van ütsprāk en sxrïfwïzə, mākt het də speliq möjləkər.
+Andərzïds bəhödt het velə hōmōfōnən vōr het vərwarəndə lot der hōmōnīmən.
+Omdat het bəhŏd van hət stātus kwō ū, hīr āngəkōmən, sāj zŏ ōvərkōmən, stel ik als ekspērīment hət volgəndə vōr:
 
-* dı stamsxrïfwïzı wordt imır behŏdın en bï klankvırandıriq wordt ook imır de ōvırēnkomstıgı letır tögıvögxdt (*ik zēvf*, *ik lēzs*, *ik blödt*, *ik ligx*, *ik tobp*), wat dı āpartı, kompleksı bıhandıliq van *d*/*t* wexwerkt (dēzı rēgıl geldt nīt eqkıl vōr werkwōrdtsvormın, wat dı vōrbēldın zŏdın kunın dön vırmödın);
-* vastı axtırvögxsıls wordın āngıhext zōals bï sāmınsteliqın (*grōtı apıls* vs. *de grōttı van dī apıl*).
+* də stamsxrïfwïzə wordt imər behŏdən en bï klankvərandəriq wordt ook imər de ōvərēnkomstəgə letər tögəvögxdt (*ik zēvf*, *ik lēzs*, *ik blödt*, *ik ligx*, *ik tobp*), wat də āpartə, kompleksə bəhandəliq van *d*/*t* wexwerkt (dēzə rēgəl geldt nīt eqkəl vōr werkwōrdtsvormən, wat də vōrbēldən zŏdən kunən dön vərmödən);
+* vastə axtərvögxsəls wordən āngəhext zōals bï sāmənsteliqən (*grōtə apəls* vs. *de grōttə van dī apəl*).
 
 
-## Nābısxŏwiqın
+## Nābəsxŏwiqən
 
-Of dı bōvınstāndı vōrstelın zŏdın kunın lëdın tot ın objektīvf makılıkır speliq is mār dı vrāgx.
-Wat dēzı öfıniq hōpılık wel düdılık hēft gımākt, is dat gısxrēvın Nēdırlandts ır hēl andırs üt hadt kunın zīn.
+Of də bōvənstāndə vōrstelən zŏdən kunən lëdən tot ən objektīvf makələkər speliq is mār də vrāgx.
+Wat dēzə öfəniq hōpələk wel düdələk hēft gəmākt, is dat gəsxrēvən Nēdərlandts ər hēl andərs üt hadt kunən zīn.
 
-Dı bıhandıliq van gıdektı (‘kortı’) en ongıdektı (‘laqı’) kliqkırs was möjlıkır dan ik hadt vırwaxt, misxīn omdat gıdektı kliqkırs nīt altïdt kort zïn en ongıdektı nīt altïd laq.
-Ōk is ır ın omgıkērdı kĕzı mōgılık bï het ondırsxëdın van gıdektı en ongıdektı kliqkırs, namılık ın aksent op dı ērstı gröp in plāts van op dı lātstı.
-Nātūrlık is ır ōk vrïhëdt in dı kĕzı van het aksent.
+Də bəhandəliq van gədektə (‘kortə’) en ongədektə (‘laqə’) kliqkərs was möjləkər dan ik hadt vərwaxt, misxīn omdat gədektə kliqkərs nīt altïdt kort zïn en ongədektə nīt altïd laq.
+Ōk is ər ən omgəkērdə kĕzə mōgələk bï het ondərsxëdən van gədektə en ongədektə kliqkərs, namələk ən aksent op də ērstə gröp in plāts van op də lātstə.
+Nātūrlək is ər ōk vrïhëdt in də kĕzə van het aksent.
 
-Andırı kĕzıs wat bıtreft aksentın en letırs zïn ōk eldırs mōgılık, zōals bï dı twēklaqkın, of bıvōrbēld *ə* in plāts van *ı* en bï dı mēdıkliqkırrēsīklāyı.
-(Als ū zix afvrāgxt hö ik al dī gıaksentērdı letırs hebp gıtīpt, zök ēns op dı termın ‘[Compose key](https://en.wikipedia.org/wiki/Compose_key)’ en ‘[AltGr key](https://en.wikipedia.org/wiki/AltGr_key)’.)
-Ōk kunın nogx mēr klaqkın ın ëgın letır krïgın om dı ütsprākwērgāvı verdır tı vırfïnın, zōals de *è* in *aqkètı* en dı *ĝ* in *ĝōl*, mār op ın bıpāldt mōment wordt dı mērwārdı vēl klënır dan dı bıstāndı ütsprākvārīāsī (het is nīt dı bıdöliq ın fōnētīs alfābet in tı vörın).
+Andərə kĕzəs wat bətreft aksentən en letərs zïn ōk eldərs mōgələk, zōals bï də twēklaqkən, of bəvōrbēld *ı* in plāts van *ə* en bï də mēdəkliqkərrēsīklāyə.
+(Als ū zix afvrāgxt hö ik al dī gəaksentērdə letərs hebp gətīpt, zök ēns op də termən ‘[Compose key](https://en.wikipedia.org/wiki/Compose_key)’ en ‘[AltGr key](https://en.wikipedia.org/wiki/AltGr_key)’.)
+Ōk kunən nogx mēr klaqkən ən ëgən letər krïgən om də ütsprākwērgāvə verdər tə vərfïnən, zōals de *è* in *aqkètə* en də *ĝ* in *ĝōl*, mār op ən bəpāldt mōment wordt də mērwārdə vēl klënər dan də bəstāndə ütsprākvārīāsī (het is nīt də bədöliq ən fōnētīs alfābet in tə vörən).
 
-Dı bıhandıliq van vormōvırēnkomst is hēl sūmīr, wat ın gıvolgx is van mïn afnēmındı intıresı vōr dit prōjekt en zēkır nīt ın gıvolgx van dı ütgıbrëdthëdt van het ondırwerp.
-Verdır zïn ır nogx (*nogal*!) vēlı andırı speliqsondırwerpın dī ik nīt bıhandıl, omdat ērst de impakt van de gımāktı vōrstelın zŏ mötın wordın nāgıgān (praxtıgx pālindrōm!), wat ın werkjı is vōr īmant met ın ōvırsxot ān tïdt.
+Də bəhandəliq van vormōvərēnkomst is hēl sūmīr, wat ən gəvolgx is van mïn afnēməndə intəresə vōr dit prōjekt en zēkər nīt ən gəvolgx van də ütgəbrëdthëdt van het ondərwerp.
+Verdər zïn ər nogx (*nogal*!) vēlə andərə speliqsondərwerpən dī ik nīt bəhandəl, omdat ērst de impakt van de gəmāktə vōrstelən zŏ mötən wordən nāgəgān (praxtəgx pālindrōm!), wat ən werkjə is vōr īmant met ən ōvərsxot ān tïdt.
 
-Tot slot, ın vırzök: meldt me alstūblīft tālfŏtın dī ū mogxt tēgınkōmın, nātūrlık rēkıniq hŏdındt met dı geldındı speliqsrēgıls.
+Tot slot, ən vərzök: meldt me alstūblīft tālfŏtən dī ū mogxt tēgənkōmən, nātūrlək rēkəniq hŏdəndt met də geldəndə speliqsrēgəls.
