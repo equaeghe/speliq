@@ -101,7 +101,7 @@ Dōr de bōvənstāndə mēdəklinkərrēsīklāyə kunən vēl lēnwōrdən nī
 Om ən inkōhērent heksənsöpjə ān sxrïfwïzən zōals wə dat nū kenən tə vərmïdən, is ən konsēkwentərə töpasiq van də letər-klaqkōvərēnkomst nōdəg:
 
 * lēnwōrdən wordən in də rēgəl fōnētīsch gəsxrēvən (*yörnāl*, *pōlīsī*, *aqketə*, *aksī*, *aktīf*, *aktīva*), wārbï konsistensī möt wordən nāgəstrēfd in gəval van ambīgūītët (desondaqks zŏ het opstelən van het lēnwōrdəndēl van də wōrdənlïst nog vēl werk zïn, zō is *pōlītsī* ōk ən bəstāndə ütsprāk);
-* wōrdən dī ëndəgdən op *īsch*, ëndəgdən nū op *īs* (*lōgīs*);
+* wōrdən dī ëndəgdən op *īsch*, ëndəgən nū op *īs* (*lōgīs*);
 * onextə twēklankən gəbrükən nū ən *j* in plāts van ən *i* of lātən də *u* valən (*drājərəgə köjən löjən mōj*, *də nīwə snēw bədektə də ŏdə*);
 * de kombinatī *th* wordt *t* (*altans*, *tüs*, *tēmā*);
 * enkələ wōrdən met ən ōvərbōdəgə letər vərlīzən dī (*ert*, *amt*), mār dat zïn dētajs vōr də wōrdənlïst.
