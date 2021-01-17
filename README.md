@@ -103,7 +103,7 @@ Dōr de bōvınstāndı mēdıklinkırrēsīklāyı kunın vēl lēnwōrdın nī
 Om ın inkōhērent heksınsöpjı ān sxrïfwïzın zōals wı dat nū kenın tı vırmïdın, is ın konsēkwentırı töpasiq van dı letır-klaqkōvırēnkomst nōdıg:
 
 * lēnwōrdın wordın in dı rēgıl fōnētīsch gısxrēvın (*yörnāl*, *pōlīsī*, *aqketı*, *aksī*, *aktīf*, *aktīva*), wārbï konsistensī möt wordın nāgıstrēfd in gıval van ambīgūītët (desondaqks zŏ het opstelın van het lēnwōrdındēl van dı wōrdınlïst nog vēl werk zïn, zō is *pōlītsī* ōk ın bıstāndı ütsprāk);
-* wōrdın dī ëndıgdın op *īsch*, ëndıgdın nū op *īs* (*lōgīs*);
+* wōrdın dī ëndıgdın op *īsch*, ëndıgın nū op *īs* (*lōgīs*);
 * onextı twēklankın gıbrükın nū ın *j* in plāts van ın *i* of lātın dı *u* valın (*drājırıgı köjın löjın mōj*, *dı nīwı snēw bıdektı dı ŏdı*);
 * de kombinatī *th* wordt *t* (*altans*, *tüs*, *tēmā*);
 * enkılı wōrdın met ın ōvırbōdıgı letır vırlīzın dī (*ert*, *amt*), mār dat zïn dētajs vōr dı wōrdınlïst.
