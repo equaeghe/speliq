@@ -91,7 +91,7 @@ Wə kunən zə dus rēsīklērən vōr andərə klankən:
 * *c* vōr də kombinatīs *sj*, *sh* en *ch* (*cāl*, *campō* en *cōkōlādə*, mār *mesjə*);
 * *q* vōr də inhēmsə kombinatī *ng* (*op ən laqe baqk pasən vēl kindərən*), wat mə tot nog tö də vīsūēl mēst stōrəndə vərandəriq van al mïn vōrstelən lïkt;
 * *x* vōr də inhēmsə kombinatī *ch* (*glimlax*, *sxōl*), als ən knipōg nār het Grīksə alfābet;
-* *y* vōr soməgə üthēmsə *j* en *g* dī ongəvēr kliqkən als ‘zj’ (*yurnāl*, *yīhād*, *barāyə*).
+* *y* vōr soməgə üthēmsə *j* en *g* dī ongəvēr kliqkən als ‘zj’ (*yournāl*, *yīhād*, *barāyə*).
 
 
 ## Ǝn inburgəriqskursus vōr lēnwōrdən en ən heropvödiqskamp vōr enkələ onāngəpastə inhēmsə wōrdən
