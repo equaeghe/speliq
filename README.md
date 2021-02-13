@@ -120,7 +120,7 @@ Andərzïds bəhödt het velə hōmōfōnən vōr het vərwarəndə lot der hōm
 Omdat het bəhŏd van hət stātus kwō ū, hīr āngəkōmən, sāj zŏ ōvərkōmən, stel ik als ekspērīment hət volgəndə vōr:
 
 * də stamsxrïfwïzə wordt imər behŏdən en bï klankvərandəriq wordt ook imər de ōvərēnkomstəgə letər tögəvögxdt (*ik zēvf*, *ik lēzs*, *ik blödt*, *ik ligx*, *ik tobp*), wat də āpartə, kompleksə bəhandəliq van *d*/*t* wexwerkt (dēzə rēgəl geldt nīt eqkəl vōr werkwōrdtsvormən, wat də vōrbēldən zŏdən kunən dön vərmödən);
-* vastə axtərvögxsəls wordən āngəhext zōals bï sāmənsteliqən (*grōtə apəls* vs. *de grōttə van dī apəl*).
+* vastə axtərvögxsəls wordən āngəhext zōals bï sāmənsteliqən (*grōtə apələn* vs. *de grōttə van dī apəl*).
 
 
 ## Nābəsxŏwiqən
