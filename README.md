@@ -2,7 +2,7 @@
 
 ## Inleiding
 
-De nabije observatie van een een kind dat leert lezen en schrijven heeft mijn kijk op de Nederlandse spelling gewijzigd.
+De nabije observatie van een kind dat leert lezen en schrijven heeft mijn kijk op de Nederlandse spelling gewijzigd.
 
 Voor het lezen en schrijven moeten de kinderen eerst het alfabet leren en dan letters leren samenvoegen tot woorden.
 Het alfabet leren gaat grotendeels vlot.
