@@ -122,7 +122,7 @@ Andırzïds bıhödt het velı hōmōfōnın vōr het vırwarındı lot der hōm
 Omdat het bıhŏd van hıt stātus kwō ū, hīr āngıkōmın, sāj zŏ ōvırkōmın, stel ik als ekspērīment hıt volgındı vōr:
 
 * dı stamsxrïfwïzı wordt imır behŏdın en bï klankvırandıriq wordt ook imır de ōvırēnkomstıgı letır tögıvögxdt (*ik zēvf*, *ik lēzs*, *ik blödt*, *ik ligx*, *ik tobp*), wat dı āpartı, kompleksı bıhandıliq van *d*/*t* wexwerkt (dēzı rēgıl geldt nīt eqkıl vōr werkwōrdtsvormın, wat dı vōrbēldın zŏdın kunın dön vırmödın);
-* vastı axtırvögxsıls wordın āngıhext zōals bï sāmınsteliqın (*grōtı apıls* vs. *de grōttı van dī apıl*).
+* vastı axtırvögxsıls wordın āngıhext zōals bï sāmınsteliqın (*grōtı apılın* vs. *de grōttı van dī apıl*).
 
 
 ## Nābısxŏwiqın
