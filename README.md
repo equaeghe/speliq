@@ -61,7 +61,7 @@ Enigı bızorgdhëd dat het gıbrük van dı umlăt voor vırwarring zal zorgın
 
 ## Het afserverın van lettırvırdubbılingın
 
-Hıt kind schreef *apol* en bıdöldı natuurlık *appıl*.
+Het kind schreef *apol* en bıdöldı natuurlık *appıl*.
 Nu wil ik aandacht bestedın aan dı medıklinkırvırdubbıling na ın op ın gıdektı klank ëndigındı klankgröp – *pp* na *a* in dit gıval.
 Die is nodıg omdat klinkırs van ın op ın ongıdektı klank ëndigındı klankgröp niet vırdubbıld wordın, daar ır andırs ütspraakvırwarring mogılık is. 
 
@@ -119,7 +119,7 @@ Bï zulkı aflëdiqın kunın ütsprākvırandıriqın vōrkōmın.
 Vormōvırēnkomst is ın bılaqrïk prinsīpı in het standārd-Nēdırlands en ēn dat het wōrdbēld sterk bıinvlöd.
 Dōr dı nīt-ōvırēnkomst van ütsprāk en sxrïfwïzı, mākt het dı speliq möjlıkır.
 Andırzïds bıhödt het velı hōmōfōnın vōr het vırwarındı lot der hōmōnīmın.
-Omdat het bıhŏd van hıt stātus kwō ū, hīr āngıkōmın, sāj zŏ ōvırkōmın, stel ik als ekspērīment hıt volgındı vōr:
+Omdat het bıhŏd van het stātus kwō ū, hīr āngıkōmın, sāj zŏ ōvırkōmın, stel ik als ekspērīment het volgındı vōr:
 
 * dı stamsxrïfwïzı wordt imır behŏdın en bï klankvırandıriq wordt ook imır de ōvırēnkomstıgı letır tögıvögxdt (*ik zēvf*, *ik lēzs*, *ik blödt*, *ik ligx*, *ik tobp*), wat dı āpartı, kompleksı bıhandıliq van *d*/*t* wegxwerkt (dēzı rēgıl geldt nīt eqkıl vōr werkwōrdtsvormın, wat dı vōrbēldın zŏdın kunın dön vırmödın);
 * vastı axtırvögxsıls wordın āngıhext zōals bï sāmınsteliqın (*grōtı apılın* vs. *de grōttı van dī apıl*).
